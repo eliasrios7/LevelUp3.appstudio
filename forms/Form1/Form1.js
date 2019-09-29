@@ -1,14 +1,4 @@
-/*
-//a,b,c are local variables inside the function
-function findAverage(a, b, c) {
-    let average = (a + b + c)/3
-    return average
-}
 
-// main program
-let myAnswer = findAverage(10,20,30)
-alert(myAnswer)
-*/
 //Car Loan Payment Branch info
 
 //Function Program
