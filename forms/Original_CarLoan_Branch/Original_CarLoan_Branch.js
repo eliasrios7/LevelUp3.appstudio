@@ -1,4 +1,4 @@
-
+/*
 //Car Loan Payment Branch info
 
 //Function Program
@@ -14,7 +14,7 @@ let numPay = 30 * 12
 let myAnswer = monthlyPayment(principle, interest, numPay)
 console.log(myAnswer)
 
-
+*/
   
   
   
